@@ -7,9 +7,9 @@ license](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://github.c
 
 When it comes to draw basic shapes such as squares or circles, we encounter many approaches to achieve this goal. Using `Paint` is one of the best approach and yet it is still easier to use an **XML** shape or even an image. Now if we need to have some text inside our shape, then we usually surrender to the easiest and less time consuming solution. This library intends to avoid this "easy" choice by providing a flexible solution to efficiently draw your shapes and display efficiently some text inside them.
 
-Square shape | Round Square shape | Round shape
----- | ---- | ----
-![Square shape](art/square.png) | ![Round square shape](art/round_square.png) | ![Round shape](art/round.png)
+| Square shape                    | Round Square shape                          | Round shape                   |
+|---------------------------------|---------------------------------------------|-------------------------------|
+| ![Square shape](art/square.png) | ![Round square shape](art/round_square.png) | ![Round shape](art/round.png) |
 
 ## Download
 
